@@ -1,0 +1,2 @@
+[07-May-2018 04:44:53 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/myccom/public_html/mycgraphics/wp-content/themes/myc/404.php on line 1
+[07-May-2018 04:59:00 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/myccom/public_html/mycgraphics/wp-content/themes/myc/404.php on line 1
